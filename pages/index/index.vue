@@ -73,6 +73,7 @@ import { ref } from 'vue';
 // 背景图：这里使用了一个网络风景图，你可以替换为本地路径如 '/static/bg.jpg'
 const bgImage = ref('https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80');
 
+
 // 导航菜单
 const navList = ['首页', '关于我', '项目', '我的频道', '技能', '联系我'];
 

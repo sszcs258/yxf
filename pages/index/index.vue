@@ -3,6 +3,7 @@
     <!-- 1. 背景图层 (固定定位，实现视差滚动效果) -->
     <view class="bg-image" :style="{ backgroundImage: 'url(' + bgImage + ')' }"></view>
 
+    
     <!-- 2. 顶部导航栏 (磨砂玻璃效果) -->
     <view class="navbar">
       <view class="nav-logo">Albert</view>
